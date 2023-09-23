@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>933678115855-v4vgfbmoeubvbgik4u8b7r364911593f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.933678115855-v4vgfbmoeubvbgik4u8b7r364911593f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXKwLzjeyYnPW1rGCaJwZgHY8TTbM1esM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>933678115855</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nlag.prayerguideapp</string>
+	<key>PROJECT_ID</key>
+	<string>nlag-prayer-guide-696c3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nlag-prayer-guide-696c3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:933678115855:ios:a19ed595b1bde095ef877a</string>
+</dict>
+</plist>

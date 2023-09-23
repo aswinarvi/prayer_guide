@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933678115855",
+    "project_id": "nlag-prayer-guide-696c3",
+    "storage_bucket": "nlag-prayer-guide-696c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933678115855:android:6163a3e5e0003a9bef877a",
+        "android_client_info": {
+          "package_name": "com.nlag.prayerguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933678115855-5d7lfh1geotr7kb1mtmkl6kol7hh7a0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1wwVzqWh_0mr6ydl-48qWhN92PgarEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933678115855-5d7lfh1geotr7kb1mtmkl6kol7hh7a0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
